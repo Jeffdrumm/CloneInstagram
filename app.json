@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "feedinsta",
-    "slug": "feedinsta",
+    "name": "feed-insta",
+    "slug": "feed-insta",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
